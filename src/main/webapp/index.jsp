@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h2>My Simple Calculator Application</h2>
+    <h2>Simple Calculator (Edited on GitHub)</h2>
 	<p>Made my first local change!</p>
 </body>
 </html>
