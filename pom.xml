@@ -9,6 +9,9 @@
   <url>http://maven.apache.org</url>
   <properties>
     <sonar.login>sqp_00aeadf66edd9e7bfeb07ae61a6575593c8120fe</sonar.login>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
   </properties>
   <dependencies>
     <dependency>
