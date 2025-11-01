@@ -1,4 +1,4 @@
-package com.jntu.NM_JNTU_Calc_Application;
+package com.jntu.nm_jntu_calc_application;
 
 public class Calculator {
 	

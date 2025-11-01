@@ -2,5 +2,5 @@ projectKey=calculator
 serverUrl=http://localhost:9000
 serverVersion=25.10.0.114319
 dashboardUrl=http://localhost:9000/dashboard?id=calculator
-ceTaskId=74d28b34-eacb-44e9-9080-aeaaa97774ff
-ceTaskUrl=http://localhost:9000/api/ce/task?id=74d28b34-eacb-44e9-9080-aeaaa97774ff
+ceTaskId=58684be5-1dc9-4b5f-b2ea-b619a5f68829
+ceTaskUrl=http://localhost:9000/api/ce/task?id=58684be5-1dc9-4b5f-b2ea-b619a5f68829
