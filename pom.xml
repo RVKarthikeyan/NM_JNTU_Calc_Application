@@ -7,6 +7,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>NM_JNTU_Calc_Application Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <sonar.login>sqp_00aeadf66edd9e7bfeb07ae61a6575593c8120fe</sonar.login>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
