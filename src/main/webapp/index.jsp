@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h2>Simple Calculator (Edited on GitHub)</h2>
+    <h2>My REMOTE Version</h2>
 	<p>Made my first local change!</p>
 	<p>A new remote feature.</p>
 </body>
